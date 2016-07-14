@@ -1,0 +1,22 @@
+{
+  "name": "coding_exercises",
+  "version": "1.0.0",
+  "description": "A place for coding exercises.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Eric Retzloff",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/retzloff/coding-exercises.git"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
